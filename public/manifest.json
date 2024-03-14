@@ -10,5 +10,11 @@
         "128": "icon128.png",
         "48": "icon48.png",
         "16": "icon16.png"
-    }
+    },
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "{fea51478930344a8a2882ca805a25695}"
+        }
+      }
+      
 }
