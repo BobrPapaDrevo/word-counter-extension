@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Word Counter",
+    "version": "1.0.0",
+    "description": "My first react app and browser extension project.",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    }
+}
