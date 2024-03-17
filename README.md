@@ -4,4 +4,4 @@
 <h2>How to use</h2>
 <p>1) Download the "dist" folder</p>
 <p>2) In your browsers extension/addon manager, enable developer mode</p>
-<p>3) Upload the extension folder or manifest.json (depending on your browser)<p>
+<p>3) Upload the downloaded dist folder or manifest.json (depending on your browser)<p>
